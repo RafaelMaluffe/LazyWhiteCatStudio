@@ -1,2 +1,0 @@
-System.json
-MapInfos.json
