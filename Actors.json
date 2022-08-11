@@ -19,5 +19,5 @@ null,
 {"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":20,"battlerName":"MageTheWhite","characterIndex":0,"characterName":"MageTheWhite","classId":1,"equips":[3,0,5,3,0,0],"faceIndex":0,"faceName":"mage1","traits":[{"code":11,"dataId":7,"value":0.5},{"code":43,"dataId":11,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Celeus","nickname":"O Branco","note":"","profile":"Um mago estudioso de civilizações antigas, ele é um dos\nmaiores especialistas em liguas da Academia de Magos"}
 ]
